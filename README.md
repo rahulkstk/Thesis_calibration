@@ -11,3 +11,14 @@ This Master's project focuses on identifying a camera's six degrees of freedom (
 ## Architecture 
 
 <img width="570" alt="image" src="https://github.com/rahulkstk/Thesis_calibration/assets/84446317/4b640777-04f2-4704-8a7a-1ad048095629">
+
+
+## Sample output
+
+
+<img width="521" alt="image" src="https://github.com/rahulkstk/Thesis_calibration/assets/84446317/ceb33944-55ca-430f-b5eb-aac2bdab4c10">
+
+## References
+
+This project utilizes mediapipe objectron: https://github.com/google/mediapipe/blob/master/docs/solutions/objectron.md
+
