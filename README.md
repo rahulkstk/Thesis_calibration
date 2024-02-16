@@ -17,7 +17,7 @@ This Master's project focuses on identifying a camera's six degrees of freedom (
 
 <img width="570" alt="image" src="https://github.com/rahulkstk/Thesis_calibration/assets/84446317/4b640777-04f2-4704-8a7a-1ad048095629">
 
-
+Yolo darknet node: https://github.com/rahulkstk/darknet/blob/master/zed_sub_darknet.py
 ## Sample output
 
 
